@@ -1,0 +1,79 @@
+name: shoufibokra
+description: "Ticket booking app"
+publish_to: "none"
+version: 1.0.0+1
+environment:
+  sdk: ">=3.2.3 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^1.0.2
+  get: ^4.6.6
+  jwt_decoder: ^2.0.1
+  http: ^1.1.2
+  geolocator: ^10.1.0
+  get_storage: ^2.1.1
+  line_icons: ^2.0.3
+  google_nav_bar: ^5.0.6
+  image_picker: ^1.0.7
+  image_cropper: ^5.0.1
+  cached_network_image: ^3.3.1
+  ticket_widget:
+  screenshot: ^2.1.0
+  image_gallery_saver:
+  barcode_widget:
+  flutter_native_splash: ^2.3.9
+  flutter_launcher_icons: ^0.13.1
+  connectivity_wrapper: ^1.1.4
+  permission_handler: ^11.1.0
+  flutter_carousel_widget: ^2.2.0
+  flutter_svg: ^2.0.9
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  mockito: ^5.4.4
+
+  flutter_lints: ^3.0.1
+
+flutter_launcher_icons:
+  android: true
+  ios: true
+  image_path: "assets/images/icons/app_icon.png"
+  min_sdk_android: 24
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/logo/
+    - assets/images/profile/
+    - assets/images/splash/
+    - assets/images/background/
+    - assets/images/icons/
+    - assets/fonts/
+
+  fonts:
+    - family: ShoufiBokraIcons
+      fonts:
+        - asset: assets/fonts/ShoufiBokraIcons.ttf
+    - family: ClashGrotesk
+      fonts:
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Variable.ttf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Extralight.otf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Light.otf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Medium.otf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Regular.otf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Semibold.otf
+        - asset: assets/fonts/clash_grotesk/ClashGrotesk-Bold.otf
+
+    - family: Manrope
+      fonts:
+        - asset: assets/fonts/manrope/Manrope-VariableFont_wght.ttf
+        - asset: assets/fonts/manrope/Manrope-Extralight.ttf
+        - asset: assets/fonts/manrope/Manrope-Light.ttf
+        - asset: assets/fonts/manrope/Manrope-Medium.ttf
+        - asset: assets/fonts/manrope/Manrope-Regular.ttf
+        - asset: assets/fonts/manrope/Manrope-Semibold.ttf
+        - asset: assets/fonts/manrope/Manrope-Bold.ttf

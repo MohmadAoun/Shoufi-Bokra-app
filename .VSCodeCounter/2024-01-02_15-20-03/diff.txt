@@ -1,0 +1,40 @@
+Date : 2024-01-02 15:20:03
+Directory : c:\Dev projects\Flutter\Shoufibokra\lib
+Total : 8 files,  521 codes, 1 comments, 14 blanks, all 536 lines
+
+Languages
++----------+------------+------------+------------+------------+------------+
+| language | files      | code       | comment    | blank      | total      |
++----------+------------+------------+------------+------------+------------+
+| Dart     |          8 |        521 |          1 |         14 |        536 |
++----------+------------+------------+------------+------------+------------+
+
+Directories
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                           | files      | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                              |          8 |        521 |          1 |         14 |        536 |
+| consts                                                                         |          1 |          4 |          0 |          0 |          4 |
+| utils                                                                          |          1 |          5 |          0 |          0 |          5 |
+| utils\themes                                                                   |          1 |          5 |          0 |          0 |          5 |
+| views                                                                          |          6 |        512 |          1 |         14 |        527 |
+| views\pages                                                                    |          2 |        342 |          1 |          4 |        347 |
+| views\pages\user                                                               |          2 |        342 |          1 |          4 |        347 |
+| views\widgets                                                                  |          4 |        170 |          0 |         10 |        180 |
+| views\widgets\user                                                             |          4 |        170 |          0 |         10 |        180 |
++--------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| filename                                                                       | language | code       | comment    | blank      | total      |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
+| c:\Dev projects\Flutter\Shoufibokra\lib\consts\app_style.dart                  | Dart     |          4 |          0 |          0 |          4 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\utils\themes\app_themes.dart           | Dart     |          5 |          0 |          0 |          5 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\pages\user\user_event.dart       | Dart     |        279 |          1 |          5 |        285 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\pages\user\user_home.dart        | Dart     |         63 |          0 |         -1 |         62 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\widgets\user\event_card.dart     | Dart     |        128 |          0 |          5 |        133 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\widgets\user\genre_selecter.dart | Dart     |         13 |          0 |          2 |         15 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\widgets\user\search_bar.dart     | Dart     |         26 |          0 |          3 |         29 |
+| c:\Dev projects\Flutter\Shoufibokra\lib\views\widgets\user\user_appbar.dart    | Dart     |          3 |          0 |          0 |          3 |
+| Total                                                                          |          |        521 |          1 |         14 |        536 |
++--------------------------------------------------------------------------------+----------+------------+------------+------------+------------+
