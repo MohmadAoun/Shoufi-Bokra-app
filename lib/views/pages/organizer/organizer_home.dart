@@ -21,9 +21,10 @@ class OrganizerHome extends StatelessWidget {
               title: 'Home',
             ),
           ),
-          body: Center(
-            child:EventCard(eventTitles: , imagesUrl: , currentTheme: ),
-          ),
+          body: Placeholder(),
+          // body: Center(
+          //   child:EventCard(eventTitles: , imagesUrl: , currentTheme: ),
+          // ),
           bottomNavigationBar: CustomNavBar(
             selectedIndex: 0,
             currentTheme: ThemeMode.dark,

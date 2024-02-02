@@ -95,15 +95,15 @@ class StorageService {
         case 'title':
         case 'title':
         case 'title':
-'title' => 'required|max=45',
-            'description' => 'required',
-            'type_id' => 'required',
-            'genre_id' => 'required',
-            'sub_genre_id' => 'required',
-            'locatoin_id' => 'required',
-            'event_start_date' => 'required',
-            'event_end_date' => 'required',
-            'ticket_book_start_date' => 'required',
+// 'title' => 'required|max=45',
+//             'description' => 'required',
+//             'type_id' => 'required',
+//             'genre_id' => 'required',
+//             'sub_genre_id' => 'required',
+//             'locatoin_id' => 'required',
+//             'event_start_date' => 'required',
+//             'event_end_date' => 'required',
+//             'ticket_book_start_date' => 'required',
       }
     });
   }
