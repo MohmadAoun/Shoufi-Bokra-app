@@ -2,7 +2,7 @@
 Flutter Ticket booking app
 Note: This project is under development not all features are done yet.
 ## Backend
-- RESTful api using PHP Laravel
+- RESTFul API using PHP Laravel
 - You can find the code here: https://github.com/MohmadAoun/Shoufi-Bokra-Backend
 ## Features
 - User auth login/registration
