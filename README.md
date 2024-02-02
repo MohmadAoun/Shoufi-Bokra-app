@@ -1,11 +1,13 @@
 # Shoufibokra
 Flutter Ticket booking app
+This project uses GetX as state management,Routing , storage and theme manager. 
 Note: This project is under development not all features are done yet.
 # Backend
 - RESTFul API using PHP Laravel
 - You can find the code here: https://github.com/MohmadAoun/Shoufi-Bokra-Backend
 # Features
-- User auth login/registration
+- User auth login/registration (Using phone number OTP not configured yet)
+- Dark theme & Light theme
 - Multiple Ui for different type of users (B2B 'organizers',B2C 'users')
   ## User-based Features
   - The app stores user's current location and search for close events
@@ -15,7 +17,7 @@ Note: This project is under development not all features are done yet.
   - View top 5 trending events by viewers count
   - View event details
   - Add event to favorite
-  - Book Tickets
+  - Book Tickets (Payment method is SEP online not configured yet)
   - Book spicific seat for hall-based events
   - Create ticket with event details and barcode with the ability to show QR Code
   - Save ticket to gallery
