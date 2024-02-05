@@ -30,6 +30,7 @@ Note: This project is under development not all features are done yet.
   - Manage halls
   - Scan tickets for verfication
 # ScreenShots
+<img src="https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/7af8f7b4-c56f-4f59-8505-b6b60dcfd91f" width="300">
 ![Screenshot_1707117689](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/7af8f7b4-c56f-4f59-8505-b6b60dcfd91f) ![Screenshot_1707117677](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/fa9aa900-7aa1-487d-b811-125136835849)
 ![Screenshot_1707117459](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/6cfc76e7-87d6-476b-9dc3-bff6acb2aaf1) ![Screenshot_1707117452](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/7e9834e3-cf83-4141-9944-9560c6beb8da)
 ![Screenshot_1707117446](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/16ddf97c-dd4c-47c0-9cfa-0b07fa980e76) ![Screenshot_1707117708](https://github.com/MohmadAoun/Shoufi-Bokra-app/assets/80004232/d8b7654d-512c-419b-897a-afd6b6c95464)
