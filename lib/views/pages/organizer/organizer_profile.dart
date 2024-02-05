@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import 'package:get/get.dart';
+import 'package:shoufibokra/views/pages/shared_pages/welcome_page.dart';
 
 import '../../widgets/shared_widgets/layout/custom_appbar.dart';
 import '../../widgets/shared_widgets/layout/custom_navbar.dart';
@@ -22,7 +24,15 @@ class OrganizerProfile extends StatelessWidget {
             ),
           ),
           body: Center(
-            child: Text('test'),
+            child: IconButton(
+              icon: const Icon(
+                Icons.login,
+                color: Colors.black,
+              ),
+              onPressed: () {
+                Get.offAll(() => const WelcomePage());
+              },
+            ),
           ),
           bottomNavigationBar: CustomNavBar(
             selectedIndex: 2,
